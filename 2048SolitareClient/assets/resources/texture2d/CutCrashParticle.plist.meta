@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "c5c1df40-6eab-48c9-be09-c3fece066424",
+  "rawTextureUuid": "04e2a7d7-8c26-495b-a704-079a50e7dd65",
+  "size": {
+    "width": 44,
+    "height": 25
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "CutCrash.png": {
+      "ver": "1.0.3",
+      "uuid": "7d0f2e86-5baf-472e-aba3-21b170ff68ed",
+      "rawTextureUuid": "04e2a7d7-8c26-495b-a704-079a50e7dd65",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 42,
+      "height": 23,
+      "rawWidth": 42,
+      "rawHeight": 23,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

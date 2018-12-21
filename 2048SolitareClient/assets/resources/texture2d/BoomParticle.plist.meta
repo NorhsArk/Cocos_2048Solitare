@@ -1,0 +1,34 @@
+{
+  "ver": "1.2.4",
+  "uuid": "86966746-ac37-4241-bf71-819457d150fe",
+  "rawTextureUuid": "e98aeb50-cf64-4161-aa93-151e9e957eda",
+  "size": {
+    "width": 202,
+    "height": 202
+  },
+  "type": "Texture Packer",
+  "subMetas": {
+    "Boom.png": {
+      "ver": "1.0.3",
+      "uuid": "16cb55f4-e30f-487c-aee1-ad3316e6325f",
+      "rawTextureUuid": "e98aeb50-cf64-4161-aa93-151e9e957eda",
+      "trimType": "auto",
+      "trimThreshold": 1,
+      "rotated": false,
+      "offsetX": 0,
+      "offsetY": 0,
+      "trimX": 1,
+      "trimY": 1,
+      "width": 200,
+      "height": 200,
+      "rawWidth": 200,
+      "rawHeight": 200,
+      "borderTop": 0,
+      "borderBottom": 0,
+      "borderLeft": 0,
+      "borderRight": 0,
+      "spriteType": "normal",
+      "subMetas": {}
+    }
+  }
+}

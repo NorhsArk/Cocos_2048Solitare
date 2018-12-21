@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple Computer//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+    <dict>
+        <key>frames</key>
+        <dict>
+            <key>LevelUp.png</key>
+            <dict>
+                <key>aliases</key>
+                <array/>
+                <key>spriteOffset</key>
+                <string>{0,0}</string>
+                <key>spriteSize</key>
+                <string>{16,30}</string>
+                <key>spriteSourceSize</key>
+                <string>{16,30}</string>
+                <key>textureRect</key>
+                <string>{{1,1},{16,30}}</string>
+                <key>textureRotated</key>
+                <false/>
+            </dict>
+        </dict>
+        <key>metadata</key>
+        <dict>
+            <key>format</key>
+            <integer>3</integer>
+            <key>pixelFormat</key>
+            <string>RGBA8888</string>
+            <key>premultiplyAlpha</key>
+            <false/>
+            <key>realTextureFileName</key>
+            <string>LevelUpParticle.png</string>
+            <key>size</key>
+            <string>{18,32}</string>
+            <key>smartupdate</key>
+            <string>$TexturePacker:SmartUpdate:09e9c8f508d201e1b5d7224256e56413:40736cc9b9ffa4c44990932436e8cd6b:bf137f27849e9d1c9d5ed612c929372f$</string>
+            <key>textureFileName</key>
+            <string>LevelUpParticle.png</string>
+        </dict>
+    </dict>
+</plist>
